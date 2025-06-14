@@ -4,7 +4,7 @@
     src: url(fonts/Oswald-VariableFont_wght.ttf);
 }
 @font-face {
-    font-family: Playfair;
+    font-family: 'Oswald';
     src: url('Oswald/Oswald-VariableFont_wght.ttf');
 } 
 h1{
@@ -16,7 +16,7 @@ h1{
     word-spacing: 3px;
 }
 p{
-    font-family: 'Playfair';
+    font-family: 'Oswald';
     font-size: 25px;
     text-align: left;
     text-decoration: underline;
