@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'xyz';
+    src: url('fonts/DaisybudScript_PERSONAL_USE_ONLY.otf');
+}
+@font-face {
+    font-family: abc;
+    src: url(fonts/Oswald-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: dd;
+    src: url(fonts/Birds\ of\ Paradise\ +\ PERSONAL\ USE\ ONLY.ttf);
+}
+p{
+    font-family: dd;
+    font-size: 25px;
+    text-align: left;
+    text-decoration: overline;
+    text-transform: lowercase;
+    
+}
+body{
+    background: linear-gradient(red, );
+}
+h1{
+    font-family: abc;
+    font-size: 40px;
+    font-weight: 1000;
+    background: linear-gradient(purple, blue);
+    color: white;
+    word-spacing: 3px;
+p{
+    font-family: ;
+}
