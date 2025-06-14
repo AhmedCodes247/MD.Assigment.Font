@@ -4,8 +4,8 @@
     src: url(fonts/Oswald-VariableFont_wght.ttf);
 }
 @font-face {
-    font-family: s;
-    src: url(Oswald/Birds\ of\ Paradise\ +\ PERSONAL\ USE\ ONLY.ttf);
+    font-family: Playfair;
+    src: url('Playfair_Display/PlayfairDisplay-Italic-VariableFont_wght.ttf');
 } 
 h1{
     font-family: Oswald;
@@ -16,7 +16,7 @@ h1{
     word-spacing: 3px;
 }
 p{
-    font-family: 's';
+    font-family: 'Playfair';
     font-size: 25px;
     text-align: left;
     text-decoration: underline;
