@@ -1,0 +1,29 @@
+
+@font-face {
+    font-family: abc;
+    src: url(fonts/Oswald-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: dd;
+    src: url(fonts/Birds\ of\ Paradise\ +\ PERSONAL\ USE\ ONLY.ttf);
+}
+h1{
+    font-family: abc;
+    font-size: 40px;
+    font-weight: 1000;
+    background: linear-gradient(purple, blue);
+    color: white;
+    word-spacing: 3px;
+}
+p{
+    font-family: dd;
+    font-size: 25px;
+    text-align: left;
+    text-decoration: underline;
+    text-transform: lowercase;
+    
+}
+body{
+    background: linear-gradient(red, );
+}
+
