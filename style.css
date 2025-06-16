@@ -1,14 +1,10 @@
 
 @font-face {
     font-family: 'Oswald';
-    src: url(fonts/Oswald-VariableFont_wght.ttf);
+    src: url('Oswald/Oswald-VariableFont_wght.ttf') format('truetype');
 }
-@font-face {
-    font-family: 'Oswald';
-    src: url('Oswald/Oswald-VariableFont_wght.ttf');
-} 
 h1{
-    font-family: Oswald;
+    font-family: 'Oswald';
     font-size: 40px;
     font-weight: 1000;
     background: linear-gradient(purple, blue);
